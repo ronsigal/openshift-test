@@ -9,6 +9,6 @@ public class TestResource {
 	@GET
 	@Path("hello")
 	public String hello() {
-		return "hello";
+		return "hello baby";
 	}
 }
